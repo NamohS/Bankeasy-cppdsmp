@@ -1,6 +1,5 @@
 # Bankeasy-cppdsmp
 
-##BankEasy Console Application
 This is a C++ console application for a simple banking system called "BankEasy." The application allows users to create bank accounts, make deposits, withdrawals, check account balances, and view transaction histories. Below is an overview of the main components of this application:
 
 ## Classes
